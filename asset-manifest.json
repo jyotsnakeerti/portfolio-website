@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/github.io/portfolio-website/static/css/main.e955a52f.css",
-    "main.js": "/github.io/portfolio-website/static/js/main.62ce8b87.js",
-    "static/media/amazon.png": "/github.io/portfolio-website/static/media/amazon.a0ba9f432243efaa1ca7.png",
-    "static/media/keeper-app.png": "/github.io/portfolio-website/static/media/keeper-app.1cb52d7f489b04a2be0e.png",
-    "static/media/photo.jpeg": "/github.io/portfolio-website/static/media/photo.de5048c9cd3c26a96795.jpeg",
-    "static/media/toDoList.png": "/github.io/portfolio-website/static/media/toDoList.689da2869427a300b050.png",
-    "static/media/react.png": "/github.io/portfolio-website/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/github.io/portfolio-website/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/leetcode.png": "/github.io/portfolio-website/static/media/leetcode.73b5137e6712388cbe4f.png",
-    "static/media/mongo.png": "/github.io/portfolio-website/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/logo.png": "/github.io/portfolio-website/static/media/logo.ad8cd551be25cfc36324.png",
-    "static/media/github.png": "/github.io/portfolio-website/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/simonGame.png": "/github.io/portfolio-website/static/media/simonGame.cb91382df1b4706da8f8.png",
-    "static/media/html.png": "/github.io/portfolio-website/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/java.webp": "/github.io/portfolio-website/static/media/java.d1dcf020cd0bf6a8e293.webp",
-    "static/media/tailwind.png": "/github.io/portfolio-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/github.io/portfolio-website/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/firebase.png": "/github.io/portfolio-website/static/media/firebase.209703cedf1b1a96bc52.png",
-    "static/media/javascript.png": "/github.io/portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/github.io/portfolio-website/index.html",
-    "main.e955a52f.css.map": "/github.io/portfolio-website/static/css/main.e955a52f.css.map",
-    "main.62ce8b87.js.map": "/github.io/portfolio-website/static/js/main.62ce8b87.js.map"
+    "main.css": "/portfolio-website/static/css/main.e955a52f.css",
+    "main.js": "/portfolio-website/static/js/main.ddb08583.js",
+    "static/media/amazon.png": "/portfolio-website/static/media/amazon.a0ba9f432243efaa1ca7.png",
+    "static/media/keeper-app.png": "/portfolio-website/static/media/keeper-app.1cb52d7f489b04a2be0e.png",
+    "static/media/photo.jpeg": "/portfolio-website/static/media/photo.de5048c9cd3c26a96795.jpeg",
+    "static/media/toDoList.png": "/portfolio-website/static/media/toDoList.689da2869427a300b050.png",
+    "static/media/react.png": "/portfolio-website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio-website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/leetcode.png": "/portfolio-website/static/media/leetcode.73b5137e6712388cbe4f.png",
+    "static/media/mongo.png": "/portfolio-website/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/logo.png": "/portfolio-website/static/media/logo.ad8cd551be25cfc36324.png",
+    "static/media/github.png": "/portfolio-website/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/simonGame.png": "/portfolio-website/static/media/simonGame.cb91382df1b4706da8f8.png",
+    "static/media/html.png": "/portfolio-website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/java.webp": "/portfolio-website/static/media/java.d1dcf020cd0bf6a8e293.webp",
+    "static/media/tailwind.png": "/portfolio-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/portfolio-website/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/portfolio-website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.e955a52f.css.map": "/portfolio-website/static/css/main.e955a52f.css.map",
+    "main.ddb08583.js.map": "/portfolio-website/static/js/main.ddb08583.js.map"
   },
   "entrypoints": [
     "static/css/main.e955a52f.css",
-    "static/js/main.62ce8b87.js"
+    "static/js/main.ddb08583.js"
   ]
 }
