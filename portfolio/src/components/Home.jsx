@@ -24,7 +24,7 @@ const Home = () => {
         </button> */}
          <a
     className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'
-    href='https://drive.google.com/file/d/1gB-jlrZJjL8xtvrs2ZmKOEtzS67SfM4M/view?usp=sharing'
+    href='https://drive.google.com/file/d/1I3tlzJZGo8_zWfPbMPL1tg3YuZSOu1we/view?usp=sharing'
     download="YourResume.pdf"
   >
     Download Resume
