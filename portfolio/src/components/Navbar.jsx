@@ -130,7 +130,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1UPrl2gaX7zxzuxQfvIZMLjdTJA_fr_hk/view?usp=sharing'
+              href='https://drive.google.com/file/d/1gB-jlrZJjL8xtvrs2ZmKOEtzS67SfM4M/view?usp=sharing'
               download="YourResume.pdf"
               target="_blank"
             >
