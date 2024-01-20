@@ -24,7 +24,7 @@ export const data=[
         name:"Amazon-clone using react",
         image:amazon,
         github:"https://github.com/jyotsnakeerti/amazon",
-        live:"https://jyotsnakeerti.github.io/amazon/",
+        live:"https://jyotsnakeerti.github.io/aman/",
     },
     {
         id:4,
