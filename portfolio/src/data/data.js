@@ -14,17 +14,18 @@ export const data=[
     },
     {
         id:2,
+        name:"Amazon-clone using react",
+        image:amazon,
+        github:"https://github.com/jyotsnakeerti/amazon",
+        live:"https://jyotsnakeerti.github.io/amazon/",
+        
+    },
+    {
+        id:3,
         name:"Keeper-App using react",
         image:keeper,
         github:"https://github.com/jyotsnakeerti/Keeper-app/tree/gh-pages",
         live:"https://jyotsnakeerti.github.io/Keeper-app/",
-    },
-    {
-        id:3,
-        name:"Amazon-clone using react",
-        image:amazon,
-        github:"https://github.com/jyotsnakeerti/",
-        live:"https://jyotsnakeerti.github.io/amazon/",
     },
     {
         id:4,
