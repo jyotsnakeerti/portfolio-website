@@ -3,6 +3,7 @@ import amazon from '../assests/projects/amazon.png'
 import simon from '../assests/projects/simonGame.png'
 import keeper from '../assests/projects/keeper-app.png'
 import toDoList from '../assests/projects/toDoList.png'
+import flappyBird from '../assests/projects/flappyBird.png'
 
 export const data=[
     {
@@ -33,6 +34,13 @@ export const data=[
         image:toDoList,
         github:"https://github.com/jyotsnakeerti/To-do-list",
         live:"",
+    },
+    {
+        id:5,
+        name:"Flappy Bird game",
+        image:flappyBird,
+        github:"https://github.com/jyotsnakeerti/Flappy_bird",
+        live:"https://jyotsnakeerti.github.io/Flappy_bird/",
     },
 
 
